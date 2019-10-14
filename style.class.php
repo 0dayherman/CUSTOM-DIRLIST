@@ -7,7 +7,7 @@ class DirList{
 		<html>
 		<head>
 		<style type=\'text/css\'>
-				body       {background-color:#1b1b1b; color:#CCCCCC; font-family: \'Courier New\', Courier, monospace; font-size: 10pt; padding:5px;}
+				body       {background-color:#000; color:#fff; font-family: \'Courier New\', Courier, monospace; font-size: 10pt; padding:5px;}
 				h2         {margin-bottom: 12px;}
 				a, a:active {text-decoration: none; color:#009E99;}
 				a:visited   {color: #007070;}
